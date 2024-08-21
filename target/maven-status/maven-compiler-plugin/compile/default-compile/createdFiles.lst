@@ -1,0 +1,8 @@
+mvc\entitybook\BookEntity.class
+mvc\entitybook\BookDetailEntity.class
+mvc\repository\BookRepository.class
+mvc\configuration\JPAConfig.class
+mvc\main\Main.class
+mvc\formbook\BookController.class
+mvc\entitybook\CategoryEntity.class
+mvc\repository\CategoryRepository.class
